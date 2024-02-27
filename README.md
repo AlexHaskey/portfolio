@@ -16,6 +16,20 @@ Certificates & Certifications
 </body>
 </html>
 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PDF Example by Object Tag</title>
+</head>
+<body>
+    <h1>PDF Example by Object Tag</h1>
+    <object data="https://github.com/AlexHaskey/portfolio/blob/main/assets/img/Intro%20to%20Big%20Data%20Certificate.pdf" type="application/pdf" width="100%" height="500px">
+        <p>Unable to display PDF file. <a href="/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf">Download</a> instead.</p>
+    </object>
+</body>
+</html>
+
+
 
 
 <img src="https://github.com/AlexHaskey/portfolio/blob/main/assets/img/Intro%20to%20Big%20Data%20Certificate.pdf">
