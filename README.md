@@ -2,7 +2,7 @@
 ## Portfolio
 
 ### Tech Stack
-<img src="https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=eee"> <img src="https://img.shields.io/badge/-SQL-CC2927?logo=MicrosoftSQLServer&logoColor=eee"> <img src="https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=ApacheSpark&logoColor=fff"> <img src=""> <img src=""> <img src=""> <img src=""> <img src=""> <img src=""> <img src="">
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=eee"> <img src="https://img.shields.io/badge/-SQL-CC2927?logo=MicrosoftSQLServer&logoColor=eee"> <img src="https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=ApacheSpark&logoColor=fff"> <img src=""> <img src=""> <img src=""> <img src=""> <img src=""> <img src=""> <img src="">
 
 
 - :rocket: React
