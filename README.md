@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=eee"> <img src="https://img.shields.io/badge/-SQL-CC2927?logo=MicrosoftSQLServer&logoColor=eee"> <img src="https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=ApacheSpark&logoColor=fff"> <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=MicrosoftAzure&logoColor=fff"> <img src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?logo=AzureDevOps&logoColor=fff"> <img src="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=fff"> <img src="https://img.shields.io/badge/-pandas-150458?logo=Pandas&logoColor=fff"> <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=Jupyter&logoColor=fff"> <img src="https://img.shields.io/badge/-Delta-003366?logo=Delta&logoColor=fff"> <img src="https://img.shields.io/badge/-PowerBI-F2C811?logo=PowerBI&logoColor=fff"> <img src="https://img.shields.io/badge/-Anaconda-44A833?logo=Anaconda&logoColor=fff"> <img src="https://img.shields.io/badge/-Databricks-FF3621?logo=Databricks&logoColor=fff"> 
 
 Certificates & Certifications
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>PDF Example</title>
